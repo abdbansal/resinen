@@ -1,0 +1,5 @@
+{
+  "name": "Composable Workspace Builder",
+  "description": "A constraint-driven, space-aware SaaS builder for creating internal tools and applications without drag-and-drop. Build layouts by splitting containers and adding contextual content.",
+  "requestFramePermissions": []
+}
